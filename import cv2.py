@@ -5,7 +5,7 @@ import uuid
 
 IMAGES_PATH = 'Tensorflow/workspace/images/collectedimages'
 labels = ['hello', 'thanks', 'yes', 'iloveyou']
-number_imgs = 15
+number_imgs = 10
 
 # Create directories for each label if they don't exist
 for label in labels:
